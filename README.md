@@ -17,3 +17,6 @@ Onshape Link: https://cad.onshape.com/documents/b8ef59e5aef5c5a6b0af3e5d/w/59209
 Sheet metal flat patterns, CAD files, and mircopython script are all available in this repo to make your own!
 
 ![PXL_20250228_181459495 (1)](https://github.com/user-attachments/assets/3996a7de-5e15-4a1d-97ba-9679fc87f096)
+
+![PXL_20250228_181447847](https://github.com/user-attachments/assets/076e6e76-e433-46c2-b020-b34a748573a2)
+
