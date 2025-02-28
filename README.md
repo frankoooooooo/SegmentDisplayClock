@@ -1,5 +1,5 @@
 # SegmentDisplayClock
-Seven Segment Display Clock - Arduino Feather RP2040 base on https://learn.adafruit.com/digital-clock-with-circuitpython by Ruiz Brothers
+Seven Segment Display Clock - Arduino Feather RP2040 based on https://learn.adafruit.com/digital-clock-with-circuitpython by Ruiz Brothers
 
 This clock was built primarily for a sheet metal demonstration for training users in an R&D Machine Shop. It's powered by the following hardware:
 Adafruit Feather RP2040
